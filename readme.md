@@ -9,6 +9,8 @@ Also, in some cases it can be fruitful to use some of YOLOs models in order to b
 
 However, in this case we do not really need as there are no other green zones and it requires more computations.
 
+Additionally, I believe we can compute running average for coordinates to make the masking smoother.
+
 ## Installation
 
 OpenCV library is required.
